@@ -16,5 +16,7 @@ __asm volatile(
 
 void main(void)
 {
+	//This is a test
+	unsigned char c = 10;
 }
 
