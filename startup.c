@@ -18,5 +18,6 @@ void main(void)
 {
 	//This is a test
 	unsigned char c = 10;
+	//Add some more
 }
 
